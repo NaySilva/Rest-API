@@ -1,4 +1,6 @@
-# Web-APIs
+# Web APIs
+Neste projeto estão as descrições breves e as demonstrações do uso de três APIs: Google Translation, Twitter e Vagalume.
+
 ## Google Translation API
 Com Google Translate API é possível detectar idiomas e traduzir dinamicamente texto entre milhares de pares de idiomas. Ela não
 é gratuita, e sua cobrança é baseado no uso de caracteres.
